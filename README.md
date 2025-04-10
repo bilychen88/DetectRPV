@@ -21,7 +21,7 @@ This repository contains our research implementation for “DetectCVR”. The da
 
 ## 📬 Contact
 For questions and collaboration:
-- 📮 Email: xxxx@gmail.com
+- 📮 Email: bidong.chen@mpu.edu.mo(B.C)
 - 🔧 Open an [issue](../../issues/new)
 ---
 💡 **Tip:** Before creating a new issue, please check if a similar issue already exists in our [issue tracker](../../issues).
